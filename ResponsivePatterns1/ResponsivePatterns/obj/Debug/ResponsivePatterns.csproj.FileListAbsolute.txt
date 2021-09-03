@@ -1,0 +1,13 @@
+C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m2-patterns\demos\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll.config
+C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m2-patterns\demos\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m2-patterns\demos\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.pdb
+C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m2-patterns\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csprojResolveAssemblyReference.cache
+C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m2-patterns\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.dll
+C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m2-patterns\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.pdb
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll.config
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.pdb
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csproj.AssemblyReference.cache
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csproj.CoreCompileInputs.cache
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.dll
+C:\Users\ubhen\Downloads\responsive-websites-bootstrap3\2-responsive-websites-bootstrap3-m2-patterns-exercise-files\demos\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.pdb
